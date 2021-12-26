@@ -1,12 +1,18 @@
 <template>
   <section id="home" class="home-page main-layout">
     <div class="home-pic full">
-      <h1>Welcome To My Portfolio</h1>
-      <h2>Daniiel Dvir</h2>
+      <div>
+        <!-- <h1>Welcome To My Portfolio</h1> -->
+        <!-- <h2>Daniiel Dvir</h2> -->
+        <h1>Daniiel Dvir</h1>
+        <h2>
+          Full Stack Development <span> &#9670; </span> Frontend Development
+        </h2>
+      </div>
     </div>
-    <about />
     <skills />
     <projects />
+    <about />
     <content-me />
   </section>
 </template>

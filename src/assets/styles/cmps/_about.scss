@@ -7,7 +7,10 @@
     height: 100%;
 
     .my-img {
-      width: 200px;
+      width: 250px;
+      height: 250px;
+      object-fit: cover;
+
       border-radius: 50%;
     }
 
@@ -54,6 +57,7 @@
 
       .my-img {
         width: 250px;
+        height: 250px;
       }
 
       .text {

@@ -17,7 +17,7 @@
     justify-content: center;
     margin-top: 200px;
 
-    font-size: rem(28px);
+    font-size: rem(30px);
   }
 
   h2 {
@@ -25,8 +25,9 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
 
-    font-size: rem(20px);
+    font-size: rem(16px);
   }
 }
 
@@ -50,7 +51,7 @@
       justify-content: center;
       margin-top: 200px;
 
-      font-size: rem(46px);
+      font-size: rem(50px);
     }
 
     h2 {
@@ -58,8 +59,12 @@
       display: flex;
       align-items: center;
       justify-content: center;
-
+      flex-direction: row;
       font-size: rem(30px);
+
+      span {
+        margin: 20px;
+      }
     }
   }
 }

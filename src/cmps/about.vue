@@ -3,7 +3,7 @@
     <section class="about-me">
       <img
         class="my-img"
-        src="https://res.cloudinary.com/disku3v4j/image/upload/v1639926291/daniiel/Image_from_iOS_1_mknzma.jpg"
+        src="https://res.cloudinary.com/disku3v4j/image/upload/v1640544022/daniiel/Image_from_iOS_pgpqvu.jpg"
         alt="my image"
       />
       <section class="text">
