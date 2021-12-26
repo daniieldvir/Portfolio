@@ -48,13 +48,15 @@
     }
 
     .rentme-btn {
+      display: flex;
+      justify-content: center;
       button {
-        width: 100px;
+        width: 150px;
         height: 25px;
         font-size: rem(14px);
         background-color: $clr1;
 
-        margin-right: 10px;
+        margin: 7px;
         border-radius: 3px;
         cursor: pointer;
 
@@ -98,13 +100,15 @@
     }
 
     .appsus-btn {
+      display: flex;
+      justify-content: center;
       button {
-        width: 100px;
+        width: 150px;
         height: 25px;
         font-size: rem(14px);
         background-color: $clr1;
 
-        margin-right: 10px;
+        margin: 7px;
         border-radius: 3px;
         cursor: pointer;
 
@@ -149,13 +153,15 @@
     }
 
     .meme-gallery-btn {
+      display: flex;
+      justify-content: center;
       button {
-        width: 100px;
+        width: 150px;
         height: 25px;
         font-size: rem(14px);
         background-color: $clr1;
 
-        margin-right: 10px;
+        margin: 7px;
         border-radius: 3px;
         cursor: pointer;
 
@@ -199,13 +205,15 @@
     }
 
     .minesweeper-btn {
+      display: flex;
+      justify-content: center;
       button {
-        width: 100px;
+        width: 150px;
         height: 25px;
         font-size: rem(14px);
         background-color: $clr1;
 
-        margin-right: 10px;
+        margin: 7px;
         border-radius: 3px;
         cursor: pointer;
 
@@ -243,6 +251,13 @@
         grid-column: 2/3;
         grid-row: 1/3;
       }
+      .rentme-btn {
+        justify-content: flex-start;
+        button {
+          margin: 0;
+          margin-right: 10px;
+        }
+      }
     }
 
     .appsus {
@@ -251,6 +266,13 @@
       .appsus-grid {
         grid-column: 2/3;
         grid-row: 1/3;
+      }
+      .appsus-btn {
+        justify-content: flex-start;
+        button {
+          margin: 0;
+          margin-right: 10px;
+        }
       }
     }
 
@@ -261,6 +283,13 @@
         grid-column: 2/3;
         grid-row: 1/3;
       }
+      .meme-gallery-btn {
+        justify-content: flex-start;
+        button {
+          margin: 0;
+          margin-right: 10px;
+        }
+      }
     }
     .minesweeper {
       grid-column: 1/3;
@@ -268,6 +297,13 @@
       .minesweeper-grid {
         grid-column: 2/3;
         grid-row: 1/3;
+      }
+      .minesweeper-btn {
+        justify-content: flex-start;
+        button {
+          margin: 0;
+          margin-right: 10px;
+        }
       }
     }
   }
