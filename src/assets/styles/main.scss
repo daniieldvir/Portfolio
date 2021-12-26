@@ -1,0 +1,20 @@
+// Setup
+@import './setup/typography';
+@import './setup/veriables';
+@import './setup/mixins';
+@import './setup/functions';
+
+/// Basics
+@import './basics/helpers';
+@import './basics/layout';
+@import './basics/bace';
+
+/// Components
+@import './cmps/header';
+@import './cmps/about';
+@import './cmps/skills';
+@import './cmps/projects';
+@import './cmps/content';
+
+/// Views
+@import './views/home-page';

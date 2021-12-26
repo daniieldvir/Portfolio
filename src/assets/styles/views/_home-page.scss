@@ -1,0 +1,65 @@
+.home-pic {
+  background-image: url(https://res.cloudinary.com/disku3v4j/image/upload/v1639925498/daniiel/jess-bailey-UHqfUTDmdC4-unsplash_tqgwqm.jpg);
+
+  box-shadow: 0 1px 7px 0 #b3b1b1;
+
+  height: 60vh;
+  background-position: bottom center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  box-shadow: inset 0 1px 20px 0 #5a5a5a;
+
+  h1 {
+    color: $clr1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 200px;
+
+    font-size: rem(28px);
+  }
+
+  h2 {
+    color: $clr1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    font-size: rem(20px);
+  }
+}
+
+@media screen and (min-width: 1080px) {
+  .home-pic {
+    background-image: url(https://res.cloudinary.com/disku3v4j/image/upload/v1639925498/daniiel/jess-bailey-UHqfUTDmdC4-unsplash_tqgwqm.jpg);
+
+    box-shadow: 0 1px 7px 0 #b3b1b1;
+
+    height: 80vh;
+    background-position: bottom center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    box-shadow: inset 0 1px 20px 0 #5a5a5a;
+
+    h1 {
+      color: $clr1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-top: 200px;
+
+      font-size: rem(46px);
+    }
+
+    h2 {
+      color: $clr1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      font-size: rem(30px);
+    }
+  }
+}

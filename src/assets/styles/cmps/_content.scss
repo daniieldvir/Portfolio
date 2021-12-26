@@ -1,0 +1,40 @@
+.contact-me {
+  margin-top: 50px;
+  background-color: $clr4;
+  height: 200px;
+
+  > * {
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+  }
+
+  h1 {
+    margin-top: 20px;
+    font-size: rem(28px);
+  }
+  p {
+    font-size: rem(16px);
+  }
+
+  .contact-btn {
+    button {
+      background-color: $clr4;
+    }
+
+    img {
+      width: 25px;
+      background-color: $clr4;
+    }
+  }
+}
+
+@media screen and (min-width: 1080px) {
+  .contact-me {
+    .contact-btn {
+      img {
+        width: 30px;
+      }
+    }
+  }
+}

@@ -1,0 +1,274 @@
+.projects {
+  margin-top: 50px;
+
+  --gap: 20px 20px;
+  --num-col: 1;
+  --num-row: 5;
+
+  display: grid;
+  grid-template-columns: repeat(var(--num-col), 1fr);
+  grid-template-rows: repeat(var(--row-col), 1fr);
+  gap: var(--gap);
+  text-align: left;
+
+  .projects-h1 {
+    grid-column: 1;
+    grid-row: 1;
+    text-align: left;
+    font-size: rem(28px);
+    text-transform: capitalize;
+  }
+
+  .rent-me {
+    grid-column: 1;
+    grid-row: 2;
+
+    display: grid;
+    grid-template-columns: repeat(var(--num-col), 1fr);
+    grid-template-rows: repeat(var(--row-col), 1fr);
+    gap: var(--gap);
+
+    .text {
+      grid-column: 1;
+
+      h1 {
+        font-size: rem(18px);
+      }
+      p {
+        font-size: rem(14px);
+        margin: 0px;
+        padding: 0px;
+        line-height: rem(25px);
+      }
+    }
+
+    .rentme-grid {
+      grid-column: 1;
+      grid-row: 2;
+    }
+
+    .rentme-btn {
+      button {
+        width: 100px;
+        height: 25px;
+        font-size: rem(14px);
+        background-color: $clr1;
+
+        margin-right: 10px;
+        border-radius: 3px;
+        cursor: pointer;
+
+        a {
+          color: $clr3;
+          text-decoration: none;
+        }
+
+        a:hover {
+          text-decoration: none;
+        }
+      }
+    }
+  }
+
+  .appsus {
+    margin-top: 40px;
+    grid-column: 1;
+    grid-row: 3;
+
+    display: grid;
+    grid-template-columns: repeat(var(--num-col), 1fr);
+    grid-template-rows: repeat(var(--row-col), 1fr);
+    gap: var(--gap);
+
+    .text {
+      grid-column: 1;
+      h1 {
+        font-size: rem(18px);
+      }
+      p {
+        font-size: rem(14px);
+        margin: 0px;
+        padding: 0px;
+        line-height: rem(25px);
+      }
+    }
+    .appsus-grid {
+      grid-column: 1;
+      grid-row: 2;
+    }
+
+    .appsus-btn {
+      button {
+        width: 100px;
+        height: 25px;
+        font-size: rem(14px);
+        background-color: $clr1;
+
+        margin-right: 10px;
+        border-radius: 3px;
+        cursor: pointer;
+
+        a {
+          color: $clr3;
+          text-decoration: none;
+        }
+
+        a:hover {
+          text-decoration: none;
+        }
+      }
+    }
+  }
+
+  .meme-gallery {
+    margin-top: 40px;
+    grid-column: 1;
+    grid-row: 4;
+
+    display: grid;
+    grid-template-columns: repeat(var(--num-col), 1fr);
+    grid-template-rows: repeat(var(--row-col), 1fr);
+    gap: var(--gap);
+
+    .text {
+      grid-column: 1;
+      h1 {
+        font-size: rem(18px);
+      }
+      p {
+        font-size: rem(14px);
+        margin: 0px;
+        padding: 0px;
+        line-height: rem(25px);
+      }
+    }
+
+    .meme-gallery-grid {
+      grid-column: 1;
+      grid-row: 2;
+    }
+
+    .meme-gallery-btn {
+      button {
+        width: 100px;
+        height: 25px;
+        font-size: rem(14px);
+        background-color: $clr1;
+
+        margin-right: 10px;
+        border-radius: 3px;
+        cursor: pointer;
+
+        a {
+          color: $clr3;
+          text-decoration: none;
+        }
+
+        a:hover {
+          text-decoration: none;
+        }
+      }
+    }
+  }
+  .minesweeper {
+    margin-top: 40px;
+    grid-column: 1;
+    grid-row: 5;
+
+    display: grid;
+    grid-template-columns: repeat(var(--num-col), 1fr);
+    grid-template-rows: repeat(var(--row-col), 1fr);
+    gap: var(--gap);
+
+    .text {
+      grid-column: 1;
+      h1 {
+        font-size: rem(18px);
+      }
+      p {
+        font-size: rem(14px);
+        margin: 0px;
+        padding: 0px;
+        line-height: rem(25px);
+      }
+    }
+
+    .minesweeper-grid {
+      grid-column: 1;
+      grid-row: 2;
+    }
+
+    .minesweeper-btn {
+      button {
+        width: 100px;
+        height: 25px;
+        font-size: rem(14px);
+        background-color: $clr1;
+
+        margin-right: 10px;
+        border-radius: 3px;
+        cursor: pointer;
+
+        a {
+          color: $clr3;
+          text-decoration: none;
+        }
+
+        a:hover {
+          text-decoration: none;
+        }
+      }
+    }
+  }
+}
+
+@media screen and (min-width: 1080px) {
+  .projects {
+    --gap: 30px 30px;
+    --num-col: 2;
+
+    display: grid;
+    grid-template-columns: repeat(var(--num-col), 1fr);
+    text-align: left;
+
+    .projects-h1 {
+      grid-column: 1/3;
+      grid-row: 1;
+    }
+
+    .rent-me {
+      grid-column: 1/3;
+
+      .rentme-grid {
+        grid-column: 2/3;
+        grid-row: 1/3;
+      }
+    }
+
+    .appsus {
+      grid-column: 1/3;
+
+      .appsus-grid {
+        grid-column: 2/3;
+        grid-row: 1/3;
+      }
+    }
+
+    .meme-gallery {
+      grid-column: 1/3;
+
+      .meme-gallery-grid {
+        grid-column: 2/3;
+        grid-row: 1/3;
+      }
+    }
+    .minesweeper {
+      grid-column: 1/3;
+
+      .minesweeper-grid {
+        grid-column: 2/3;
+        grid-row: 1/3;
+      }
+    }
+  }
+}
