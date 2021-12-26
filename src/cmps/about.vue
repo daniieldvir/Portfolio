@@ -17,7 +17,12 @@
 
         <section class="btn-about">
           <button><a href="https://github.com/daniieldvir">GitHub</a></button>
-          <button><a>Resume</a></button>
+          <button>
+            <a
+              href="https://drive.google.com/file/d/1WuhjjLwawUHkBta-mIGYcfH4TSpybXEB/view?usp=sharing"
+              >Resume</a
+            >
+          </button>
           <button>
             <a href="https://www.linkedin.com/in/daniiel-dvir-06154769/">
               Linkedin
