@@ -19,7 +19,7 @@
           <button><a href="https://github.com/daniieldvir">GitHub</a></button>
           <button>
             <a
-              href="https://drive.google.com/file/d/1WuhjjLwawUHkBta-mIGYcfH4TSpybXEB/view?usp=sharing"
+              href="https://drive.google.com/file/d/1Nf4kMrpykQ5cEJIbqLE0eWRdIGEi9wt6/view?usp=sharing"
               >Resume</a
             >
           </button>
