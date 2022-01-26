@@ -33,6 +33,35 @@
       </div>
     </section>
 
+    <section class="bitcoin">
+      <div class="text">
+        <h1>Bitcoin</h1>
+        <p>
+          Bitcoin transfer app with bitcoin API. Virtual money can be
+          transferred from the user to other contents in the app.
+        </p>
+
+        <p>Main Technology: Angular</p>
+        <p>Style: CSS</p>
+        <p>Other Technologies: Session Storage</p>
+      </div>
+      <div class="thumbnail-name-container bitcoin-grid">
+        <img
+          class="proj-img"
+          src="https://res.cloudinary.com/disku3v4j/image/upload/v1643201790/daniiel/Screen_Shot_2022-01-26_at_14.55.44_vejpmh.png"
+          alt="bitcoin"
+        />
+      </div>
+      <div class="bitcoin-btn">
+        <button>
+          <a href="https://daniieldvir.github.io/bit/">Website</a>
+        </button>
+        <button>
+          <a href="https://github.com/daniieldvir/bit">Source Code</a>
+        </button>
+      </div>
+    </section>
+
     <section class="appsus">
       <div class="text">
         <h1>Appsus</h1>
