@@ -33,7 +33,7 @@
       </div>
     </section>
 
-    <!-- <section class="bitcoin">
+    <section class="bitcoin">
       <div class="text">
         <h1>Bitcoin</h1>
         <p>
@@ -60,7 +60,7 @@
           <a href="https://github.com/daniieldvir/bit">Source Code</a>
         </button>
       </div>
-    </section> -->
+    </section>
 
     <section class="appsus">
       <div class="text">

@@ -1,11 +1,13 @@
 <template>
   <div id="about" class="about main-layout">
     <section class="about-me">
-      <img
-        class="my-img"
-        src="https://res.cloudinary.com/disku3v4j/image/upload/v1640544022/daniiel/Image_from_iOS_pgpqvu.jpg"
-        alt="my image"
-      />
+      <div>
+        <img
+          class="my-img"
+          src="https://res.cloudinary.com/disku3v4j/image/upload/v1640544022/daniiel/Image_from_iOS_pgpqvu.jpg"
+          alt="my image"
+        />
+      </div>
       <section class="text">
         <h1>About Me</h1>
         <p>

@@ -45,6 +45,9 @@
     .rentme-grid {
       grid-column: 1;
       grid-row: 2;
+
+      height: 343px;
+      width: 463px;
     }
 
     .rentme-btn {
@@ -97,6 +100,9 @@
     .appsus-grid {
       grid-column: 1;
       grid-row: 2;
+
+      height: 343px;
+      width: 463px;
     }
 
     .appsus-btn {
@@ -149,6 +155,9 @@
     .bitcoin-grid {
       grid-column: 1;
       grid-row: 2;
+
+      height: 343px;
+      width: 463px;
     }
 
     .bitcoin-btn {
@@ -202,6 +211,9 @@
     .meme-gallery-grid {
       grid-column: 1;
       grid-row: 2;
+
+      height: 343px;
+      width: 463px;
     }
 
     .meme-gallery-btn {
@@ -254,6 +266,9 @@
     .minesweeper-grid {
       grid-column: 1;
       grid-row: 2;
+
+      height: 343px;
+      width: 463px;
     }
 
     .minesweeper-btn {
@@ -302,9 +317,13 @@
       .rentme-grid {
         grid-column: 2/3;
         grid-row: 1/3;
+
+        height: 343px;
+        width: 463px;
       }
       .rentme-btn {
         justify-content: flex-start;
+        align-items: flex-end;
         button {
           margin: 0;
           margin-right: 10px;
@@ -318,9 +337,13 @@
       .appsus-grid {
         grid-column: 2/3;
         grid-row: 1/3;
+
+        height: 343px;
+        width: 463px;
       }
       .appsus-btn {
         justify-content: flex-start;
+        align-items: flex-end;
         button {
           margin: 0;
           margin-right: 10px;
@@ -334,9 +357,13 @@
       .bitcoin-grid {
         grid-column: 2/3;
         grid-row: 1/3;
+
+        height: 343px;
+        width: 463px;
       }
       .bitcoin-btn {
         justify-content: flex-start;
+        align-items: flex-end;
         button {
           margin: 0;
           margin-right: 10px;
@@ -350,9 +377,13 @@
       .meme-gallery-grid {
         grid-column: 2/3;
         grid-row: 1/3;
+
+        height: 343px;
+        width: 463px;
       }
       .meme-gallery-btn {
         justify-content: flex-start;
+        align-items: flex-end;
         button {
           margin: 0;
           margin-right: 10px;
@@ -365,9 +396,13 @@
       .minesweeper-grid {
         grid-column: 2/3;
         grid-row: 1/3;
+
+        height: 343px;
+        width: 463px;
       }
       .minesweeper-btn {
         justify-content: flex-start;
+        align-items: flex-end;
         button {
           margin: 0;
           margin-right: 10px;
