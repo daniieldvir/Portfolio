@@ -1,8 +1,6 @@
 <template>
   <section id="contact-me" class="contact-me main-layout full">
     <h1>Contact Me</h1>
-    <!-- <p>Tel: 054-5586006</p> -->
-    <!-- <p>Mail: Daniieldvir2406@gmail.com</p> -->
     <section>
       <a class="tel" href="tel:054-5586006"
         ><img

@@ -1,0 +1,67 @@
+[
+  {
+    "forClass": "rent-me",
+    "projectName": "Rent me",
+    "discretion": "Air-bnb based app.",
+    "mainTechnology": "Vue.js (with Vue CLI)",
+    "serverSide": "Node.js",
+    "database": "Mongodb (on Atlas cloud)",
+    "style": "SASS",
+    "otherTechnologies": "Session Storage",
+    "img": "https://res.cloudinary.com/disku3v4j/image/upload/v1639937591/daniiel/Screen_Shot_2021-12-19_at_20.11.41_czt0nz.png",
+    "website": "https://rentme-bnb.herokuapp.com/",
+    "sourceCode": "https://github.com/daniieldvir/rent-me.git"
+  },
+  {
+    "forClass": "bitcoin",
+    "projectName": "Bitcoin",
+    "discretion": "Bitcoin transfer app with bitcoin API",
+    "mainTechnology": "Angular",
+    "serverSide": "",
+    "database": "",
+    "style": "CSS",
+    "otherTechnologies": "Session Storage",
+    "img": "https://res.cloudinary.com/disku3v4j/image/upload/v1643201790/daniiel/Screen_Shot_2022-01-26_at_14.55.44_vejpmh.png",
+    "website": "https://daniieldvir.github.io/bit/",
+    "sourceCode": "https://github.com/daniieldvir/bit"
+  },
+  {
+    "forClass": "appsus",
+    "projectName": "Appsus",
+    "discretion": "Google-Keep-Based,Google-mail-Based application, Book-store application ",
+    "mainTechnology": "Vue.js",
+    "serverSide": "",
+    "database": "",
+    "style": "CSS",
+    "otherTechnologies": "Session Storage",
+    "img": "https://res.cloudinary.com/disku3v4j/image/upload/v1639943548/daniiel/Screen_Shot_2021-12-19_at_21.51.51_sqghgp.png",
+    "website": "https://daniieldvir.github.io/appsus/#/",
+    "sourceCode": "https://github.com/daniieldvir/appsus.git"
+  },
+  {
+    "forClass": "meme-gallery",
+    "projectName": "Meme Gallery",
+    "discretion": "Meme Gallery app",
+    "mainTechnology": "Vanilla JavaScript",
+    "serverSide": "",
+    "database": "",
+    "style": "CSS3",
+    "otherTechnologies": "Canvas, Local Storage",
+    "img": "https://res.cloudinary.com/disku3v4j/image/upload/v1639949811/daniiel/Screen_Shot_2021-12-19_at_23.36.08_b9xcdq.png",
+    "website": "https://daniieldvir.github.io/meme-gallery/",
+    "sourceCode": "https://github.com/daniieldvir/meme-gallery.git"
+  },
+  {
+    "forClass": "minesweeper",
+    "projectName": "Minesweeper",
+    "discretion": " The classic Minesweeper game",
+    "mainTechnology": "Vanilla JavaScript",
+    "serverSide": "",
+    "database": "",
+    "style": "CSS3",
+    "otherTechnologies": "Local Storage",
+    "img": "https://res.cloudinary.com/disku3v4j/image/upload/v1639950520/daniiel/Screen_Shot_2021-12-19_at_23.48.04_f8szwl.png",
+    "website": "https://daniieldvir.github.io/minesweep/",
+    "sourceCode": "https://github.com/daniieldvir/minesweep.git"
+  }
+]
