@@ -2,7 +2,7 @@
   {
     "forClass": "rent-me",
     "projectName": "Rent me",
-    "discretion": "Air-bnb based app.",
+    "discretion": "AirBnb based app.",
     "mainTechnology": "Vue.js (with Vue CLI)",
     "serverSide": "Node.js",
     "database": "Mongodb (on Atlas cloud)",
@@ -28,7 +28,7 @@
   {
     "forClass": "appsus",
     "projectName": "Appsus",
-    "discretion": "Google-Keep-Based,Google-mail-Based application, Book-store application ",
+    "discretion": "Three apps in one app: Google-Keep-Based, Google-mail-Based, Book-store application ",
     "mainTechnology": "Vue.js",
     "serverSide": "",
     "database": "",
@@ -41,7 +41,7 @@
   {
     "forClass": "meme-gallery",
     "projectName": "Meme Gallery",
-    "discretion": "Meme Gallery app",
+    "discretion": "Meme gallery app",
     "mainTechnology": "Vanilla JavaScript",
     "serverSide": "",
     "database": "",
@@ -54,7 +54,7 @@
   {
     "forClass": "minesweeper",
     "projectName": "Minesweeper",
-    "discretion": " The classic Minesweeper game",
+    "discretion": " The classic minesweeper game",
     "mainTechnology": "Vanilla JavaScript",
     "serverSide": "",
     "database": "",
