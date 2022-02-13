@@ -13,6 +13,19 @@
     "sourceCode": "https://github.com/daniieldvir/rent-me.git"
   },
   {
+    "forClass": "smadi",
+    "projectName": "The latest diet",
+    "discretion": "Your last diet sign-up site",
+    "mainTechnology": "Angular",
+    "serverSide": "",
+    "database": "",
+    "style": "SASS",
+    "otherTechnologies": "",
+    "img": "https://res.cloudinary.com/disku3v4j/image/upload/v1644773768/daniiel/Screen_Shot_2022-02-13_at_19.35.11_swdisw.png",
+    "website": "https://daniieldvir.github.io/smadi/",
+    "sourceCode": "https://github.com/daniieldvir/smadi"
+  },
+  {
     "forClass": "bitcoin",
     "projectName": "Bitcoin",
     "discretion": "Bitcoin transfer app with bitcoin API",
