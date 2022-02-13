@@ -15,7 +15,9 @@
         </p>
         <p v-if="project.database !== ''">Database: {{ project.database }}</p>
         <p>Style: {{ project.style }}</p>
-        <p>Other Technologies: {{ project.otherTechnologies }}</p>
+        <p v-if="project.otherTechnologies !== ''">
+          Other Technologies: {{ project.otherTechnologies }}
+        </p>
       </div>
 
       <div
