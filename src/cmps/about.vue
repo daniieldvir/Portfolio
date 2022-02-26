@@ -16,6 +16,10 @@
           latest WEB technologies, including ES6, Vue.js, Vuex, Angular, React,
           Redux, and Node.js.
         </p>
+        <p>
+          I'm also a marketing & digital Analyst and senior user acquisition,
+          with knowledge in SQL, python, GTM, and more.
+        </p>
 
         <section class="btn-about">
           <button><a href="https://github.com/daniieldvir">GitHub</a></button>

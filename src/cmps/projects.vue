@@ -10,8 +10,9 @@
         <h1>{{ project.projectName }}</h1>
         <p>{{ project.discretion }}</p>
         <p>Main Technology: {{ project.mainTechnology }}</p>
+        <p v-if="project.team !== ''">Team Project: {{ project.team }}</p>
         <p v-if="project.database !== ''">
-          Database:>Server Side: {{ project.serverSide }}
+          Server Side: {{ project.serverSide }}
         </p>
         <p v-if="project.database !== ''">Database: {{ project.database }}</p>
         <p>Style: {{ project.style }}</p>

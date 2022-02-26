@@ -2,7 +2,8 @@
   {
     "forClass": "rent-me",
     "projectName": "Rent me",
-    "discretion": "AirBnb based app.",
+    "discretion": "Coding Academy final project - AirBnb based app.",
+    "team": "A group of three members",
     "mainTechnology": "Vue.js (with Vue CLI)",
     "serverSide": "Node.js",
     "database": "Mongodb (on Atlas cloud)",
@@ -14,8 +15,9 @@
   },
   {
     "forClass": "smadi",
-    "projectName": "The latest diet",
-    "discretion": "Your last diet sign-up site",
+    "projectName": "Dietitian Registration",
+    "team": "",
+    "discretion": "What would you be willing to do to lose weight once and for all?",
     "mainTechnology": "Angular",
     "serverSide": "",
     "database": "",
@@ -28,7 +30,8 @@
   {
     "forClass": "bitcoin",
     "projectName": "Bitcoin",
-    "discretion": "Bitcoin transfer app with bitcoin API",
+    "team": "",
+    "discretion": "Coding Academy project - Bitcoin transfer app with bitcoin API.",
     "mainTechnology": "Angular",
     "serverSide": "",
     "database": "",
@@ -41,7 +44,8 @@
   {
     "forClass": "appsus",
     "projectName": "Appsus",
-    "discretion": "Three apps in one app: Google-Keep-Based, Google-mail-Based, Book-store application ",
+    "team": "A group of two members",
+    "discretion": "Coding Academy third project - Three apps in one app: Google-Keep-Based, Google-mail-Based, Book-store application.",
     "mainTechnology": "Vue.js",
     "serverSide": "",
     "database": "",
@@ -53,8 +57,10 @@
   },
   {
     "forClass": "meme-gallery",
-    "projectName": "Meme Gallery",
-    "discretion": "Meme gallery app",
+    "projectName": " Meme Gallery",
+    "team": "",
+
+    "discretion": "Coding Academy second project - Meme gallery app.",
     "mainTechnology": "Vanilla JavaScript",
     "serverSide": "",
     "database": "",
@@ -67,7 +73,8 @@
   {
     "forClass": "minesweeper",
     "projectName": "Minesweeper",
-    "discretion": " The classic minesweeper game",
+    "team": "",
+    "discretion": "Coding Academy first project - The classic minesweeper game.",
     "mainTechnology": "Vanilla JavaScript",
     "serverSide": "",
     "database": "",
@@ -76,5 +83,20 @@
     "img": "https://res.cloudinary.com/disku3v4j/image/upload/v1639950520/daniiel/Screen_Shot_2021-12-19_at_23.48.04_f8szwl.png",
     "website": "https://daniieldvir.github.io/minesweep/",
     "sourceCode": "https://github.com/daniieldvir/minesweep.git"
+  },
+  {
+    "forClass": "recipe-book",
+    "projectName": "Recipe Book",
+    "team": "",
+
+    "discretion": "An Udemy angular project for recipe book. The data is linked to firebase and the website is on firebase hosting services.",
+    "mainTechnology": "Angular",
+    "serverSide": "Firebase",
+    "database": "Firebase",
+    "style": "Css",
+    "otherTechnologies": "Local Storage, NgRx, Http",
+    "img": "https://res.cloudinary.com/disku3v4j/image/upload/v1645885227/daniiel/Screen_Shot_2022-02-26_at_16.19.48_q05xrc.png",
+    "website": "https://udemy-project-cd6a0.web.app/",
+    "sourceCode": "https://github.com/daniieldvir/recipes-book"
   }
 ]
