@@ -1,13 +1,15 @@
 <template>
   <section id="home" class="home-page main-layout">
-    <div class="home-pic full">
-      <div>
-        <h1>Daniiel Dvir</h1>
-        <h2>
-          Full Stack Development <span> &#9670; </span> Frontend Development
-        </h2>
+    <template>
+      <div class="home-pic full">
+        <div>
+          <h1>Daniiel Dvir</h1>
+          <h2>
+            Full Stack Development <span> &#9670; </span> Frontend Development
+          </h2>
+        </div>
       </div>
-    </div>
+    </template>
     <skills />
     <projects />
     <about />
