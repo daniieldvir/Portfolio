@@ -91,7 +91,7 @@
 
     "discretion": "An Udemy angular project for recipe book. The data is linked to firebase and the website is on firebase hosting services.",
     "mainTechnology": "Angular with CLI",
-    "serverSide": "Firebase",
+    "serverSide": "Firebase, Node.js",
     "database": "Firebase",
     "style": "Bootstrap",
     "otherTechnologies": "Local Storage, NgRx, Http",
