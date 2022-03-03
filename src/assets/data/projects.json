@@ -56,35 +56,6 @@
     "sourceCode": "https://github.com/daniieldvir/appsus.git"
   },
   {
-    "forClass": "meme-gallery",
-    "projectName": " Meme Gallery",
-    "team": "",
-
-    "discretion": "Coding Academy second project - Meme gallery app.",
-    "mainTechnology": "Vanilla JavaScript",
-    "serverSide": "",
-    "database": "",
-    "style": "CSS3",
-    "otherTechnologies": "Canvas, Local Storage",
-    "img": "https://res.cloudinary.com/disku3v4j/image/upload/v1639949811/daniiel/Screen_Shot_2021-12-19_at_23.36.08_b9xcdq.png",
-    "website": "https://daniieldvir.github.io/meme-gallery/",
-    "sourceCode": "https://github.com/daniieldvir/meme-gallery.git"
-  },
-  {
-    "forClass": "minesweeper",
-    "projectName": "Minesweeper",
-    "team": "",
-    "discretion": "Coding Academy first project - The classic minesweeper game.",
-    "mainTechnology": "Vanilla JavaScript",
-    "serverSide": "",
-    "database": "",
-    "style": "CSS3",
-    "otherTechnologies": "Local Storage",
-    "img": "https://res.cloudinary.com/disku3v4j/image/upload/v1639950520/daniiel/Screen_Shot_2021-12-19_at_23.48.04_f8szwl.png",
-    "website": "https://daniieldvir.github.io/minesweep/",
-    "sourceCode": "https://github.com/daniieldvir/minesweep.git"
-  },
-  {
     "forClass": "recipe-book",
     "projectName": "Recipe Book",
     "team": "",

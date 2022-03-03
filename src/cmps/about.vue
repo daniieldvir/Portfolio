@@ -4,7 +4,7 @@
       <div>
         <img
           class="my-img"
-          src="https://res.cloudinary.com/disku3v4j/image/upload/v1640544022/daniiel/Image_from_iOS_pgpqvu.jpg"
+          src="https://res.cloudinary.com/disku3v4j/image/upload/v1646307805/daniiel/13726_10206525158264095_4610679800752306461_n_pg81m4.jpg"
           alt="my image"
         />
       </div>
