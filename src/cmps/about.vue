@@ -17,7 +17,7 @@
           Redux, and Node.js.
         </p>
         <p>
-          I'm also a marketing & digital Analyst and senior user acquisition,
+          Vast experience in the field of Digital Marketing and Data Analysis
           with knowledge in SQL, python, GTM, and more.
         </p>
 
