@@ -74,7 +74,7 @@
     "forClass": "whatsapp",
     "projectName": "Demo WhatsApp",
     "team": "",
-    "discretion": "This is a demo WhatsApp app. You can search for a chat from the dummy data and read it. Mobile is responsive, you can also search for a chat from the dummy data and read it, in the chat you can go back to the start of the app by clicking the arrow",
+    "discretion": "This is a demo WhatsApp app. You can search for a chat from the dummy data and read it. Mobile is responsive, you can also search for a chat from the dummy data and read it, in the chat you can go back to the start of the app by clicking the arrow.",
     "mainTechnology": "React",
     "serverSide": "",
     "database": "",
