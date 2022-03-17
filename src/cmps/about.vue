@@ -17,7 +17,7 @@
           Redux, and Node.js.
         </p>
         <p>
-          Vast experience in the field of Digital Marketing and Data Analysis
+          Vast experience in the field of Data Analysis and Digital Marketing
           with knowledge in SQL, python, GTM, and more.
         </p>
 
