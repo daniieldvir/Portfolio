@@ -1,5 +1,33 @@
 [
   {
+    "forClass": "love-in-my-tummy",
+    "projectName": "Desserts Ordering App",
+    "discretion": "This is a demo dessert ordering app for my business. You can enter your information and order the dessert you like, the data will send to firebase in real-time. This app is mobile is responsive.",
+    "team": "",
+    "mainTechnology": "React",
+    "serverSide": "Firebase",
+    "database": "Firebase",
+    "style": "CSS",
+    "otherTechnologies": "",
+    "img": "https://res.cloudinary.com/disku3v4j/image/upload/v1654460773/daniiel/loveinmytummy_un214h.png",
+    "website": "https://daniieldvir.github.io/loveInMyTummy/",
+    "sourceCode": "https://github.com/daniieldvir/loveInMyTummy"
+  },
+  {
+    "forClass": "article-simulation",
+    "projectName": "Article Simulation App",
+    "discretion": "This is a demo article simulation. You can add as many photos as you want, or stick with one.he arrows in the pictures appear only when there are two pictures. The title is limited to 2 lines and can be colored using the options to choose from. The description is limited to 3 lines. This app is mobile is responsive.",
+    "team": "",
+    "mainTechnology": "React",
+    "serverSide": "",
+    "database": "",
+    "style": "CSS",
+    "otherTechnologies": "",
+    "img": "https://res.cloudinary.com/disku3v4j/image/upload/v1653990295/daniiel/Screen_Shot_2022-05-31_at_12.44.12_mwoloa.png",
+    "website": "https://daniieldvir.github.io/articleSimulation/",
+    "sourceCode": "https://github.com/daniieldvir/articleSimulation"
+  },
+  {
     "forClass": "rent-me",
     "projectName": "Rent me",
     "discretion": "Coding Academy final project - AirBnb based app.",

@@ -19,9 +19,62 @@
     text-transform: capitalize;
   }
 
-  .rent-me {
+  .love-in-my-tummy {
     grid-column: 1;
     grid-row: 2;
+
+    display: grid;
+    grid-template-columns: repeat(var(--num-col), 1fr);
+    grid-template-rows: repeat(var(--row-col), 1fr);
+    gap: var(--gap);
+
+    .text {
+      grid-column: 1;
+
+      h1 {
+        font-size: rem(18px);
+      }
+      p {
+        font-size: rem(14px);
+        margin: 0px;
+        padding: 0px;
+        line-height: rem(25px);
+      }
+    }
+
+    .love-in-my-tummy-grid {
+      grid-column: 1;
+      grid-row: 2;
+    }
+
+    .love-in-my-tummy-btn {
+      display: flex;
+      justify-content: center;
+      button {
+        width: 150px;
+        height: 25px;
+        font-size: rem(14px);
+        background-color: $clr1;
+
+        margin: 7px;
+        border-radius: 3px;
+        cursor: pointer;
+
+        a {
+          color: $clr3;
+          text-decoration: none;
+        }
+
+        a:hover {
+          text-decoration: none;
+        }
+      }
+    }
+  }
+
+  .rent-me {
+    grid-column: 1;
+    grid-row: 3;
 
     display: grid;
     grid-template-columns: repeat(var(--num-col), 1fr);
@@ -72,9 +125,62 @@
     }
   }
 
+  .article-simulation {
+    grid-column: 1;
+    grid-row: 4;
+
+    display: grid;
+    grid-template-columns: repeat(var(--num-col), 1fr);
+    grid-template-rows: repeat(var(--row-col), 1fr);
+    gap: var(--gap);
+
+    .text {
+      grid-column: 1;
+
+      h1 {
+        font-size: rem(18px);
+      }
+      p {
+        font-size: rem(14px);
+        margin: 0px;
+        padding: 0px;
+        line-height: rem(25px);
+      }
+    }
+
+    .article-simulation-grid {
+      grid-column: 1;
+      grid-row: 2;
+    }
+
+    .article-simulation-btn {
+      display: flex;
+      justify-content: center;
+      button {
+        width: 150px;
+        height: 25px;
+        font-size: rem(14px);
+        background-color: $clr1;
+
+        margin: 7px;
+        border-radius: 3px;
+        cursor: pointer;
+
+        a {
+          color: $clr3;
+          text-decoration: none;
+        }
+
+        a:hover {
+          text-decoration: none;
+        }
+      }
+    }
+  }
+
   .whatsapp {
     grid-column: 1;
-    grid-row: 3;
+    grid-row: 5;
 
     display: grid;
     grid-template-columns: repeat(var(--num-col), 1fr);
@@ -128,7 +234,7 @@
   .recipe-book {
     margin-top: 40px;
     grid-column: 1;
-    grid-row: 4;
+    grid-row: 6;
 
     display: grid;
     grid-template-columns: repeat(var(--num-col), 1fr);
@@ -180,7 +286,7 @@
   .smadi {
     margin-top: 40px;
     grid-column: 1;
-    grid-row: 5;
+    grid-row: 7;
 
     display: grid;
     grid-template-columns: repeat(var(--num-col), 1fr);
@@ -232,7 +338,7 @@
   .appsus {
     margin-top: 40px;
     grid-column: 1;
-    grid-row: 7;
+    grid-row: 8;
 
     display: grid;
     grid-template-columns: repeat(var(--num-col), 1fr);
@@ -284,7 +390,7 @@
   .bitcoin {
     margin-top: 40px;
     grid-column: 1;
-    grid-row: 6;
+    grid-row: 9;
 
     display: grid;
     grid-template-columns: repeat(var(--num-col), 1fr);
@@ -332,111 +438,6 @@
       }
     }
   }
-
-  .meme-gallery {
-    margin-top: 40px;
-    grid-column: 1;
-    grid-row: 8;
-
-    display: grid;
-    grid-template-columns: repeat(var(--num-col), 1fr);
-    grid-template-rows: repeat(var(--row-col), 1fr);
-    gap: var(--gap);
-
-    .text {
-      grid-column: 1;
-      h1 {
-        font-size: rem(18px);
-      }
-      p {
-        font-size: rem(14px);
-        margin: 0px;
-        padding: 0px;
-        line-height: rem(25px);
-      }
-    }
-
-    .meme-gallery-grid {
-      grid-column: 1;
-      grid-row: 2;
-    }
-
-    .meme-gallery-btn {
-      display: flex;
-      justify-content: center;
-      button {
-        width: 150px;
-        height: 25px;
-        font-size: rem(14px);
-        background-color: $clr1;
-
-        margin: 7px;
-        border-radius: 3px;
-        cursor: pointer;
-
-        a {
-          color: $clr3;
-          text-decoration: none;
-        }
-
-        a:hover {
-          text-decoration: none;
-        }
-      }
-    }
-  }
-  .minesweeper {
-    margin-top: 40px;
-    grid-column: 1;
-    grid-row: 9;
-
-    display: grid;
-    grid-template-columns: repeat(var(--num-col), 1fr);
-    grid-template-rows: repeat(var(--row-col), 1fr);
-    gap: var(--gap);
-
-    .text {
-      grid-column: 1;
-      h1 {
-        font-size: rem(18px);
-      }
-      p {
-        font-size: rem(14px);
-        margin: 0px;
-        padding: 0px;
-        line-height: rem(25px);
-      }
-    }
-
-    .minesweeper-grid {
-      grid-column: 1;
-      grid-row: 2;
-    }
-
-    .minesweeper-btn {
-      display: flex;
-      justify-content: center;
-      button {
-        width: 150px;
-        height: 25px;
-        font-size: rem(14px);
-        background-color: $clr1;
-
-        margin: 7px;
-        border-radius: 3px;
-        cursor: pointer;
-
-        a {
-          color: $clr3;
-          text-decoration: none;
-        }
-
-        a:hover {
-          text-decoration: none;
-        }
-      }
-    }
-  }
 }
 
 @media screen and (min-width: 1080px) {
@@ -451,6 +452,44 @@
     .projects-h1 {
       grid-column: 1/3;
       grid-row: 1;
+    }
+
+    .love-in-my-tummy {
+      grid-column: 1/3;
+
+      .love-in-my-tummy-grid {
+        grid-column: 2/3;
+        grid-row: 1/3;
+
+        height: 340px;
+      }
+      .love-in-my-tummy-btn {
+        justify-content: flex-start;
+        align-items: flex-end;
+        button {
+          margin: 0;
+          margin-right: 10px;
+        }
+      }
+    }
+
+    .article-simulation {
+      grid-column: 1/3;
+
+      .article-simulation-grid {
+        grid-column: 2/3;
+        grid-row: 1/3;
+
+        height: 340px;
+      }
+      .article-simulation-btn {
+        justify-content: flex-start;
+        align-items: flex-end;
+        button {
+          margin: 0;
+          margin-right: 10px;
+        }
+      }
     }
 
     .rent-me {
@@ -558,43 +597,6 @@
         height: 340px;
       }
       .bitcoin-btn {
-        justify-content: flex-start;
-        align-items: flex-end;
-        button {
-          margin: 0;
-          margin-right: 10px;
-        }
-      }
-    }
-
-    .meme-gallery {
-      grid-column: 1/3;
-
-      .meme-gallery-grid {
-        grid-column: 2/3;
-        grid-row: 1/3;
-
-        height: 340px;
-      }
-      .meme-gallery-btn {
-        justify-content: flex-start;
-        align-items: flex-end;
-        button {
-          margin: 0;
-          margin-right: 10px;
-        }
-      }
-    }
-    .minesweeper {
-      grid-column: 1/3;
-
-      .minesweeper-grid {
-        grid-column: 2/3;
-        grid-row: 1/3;
-
-        height: 340px;
-      }
-      .minesweeper-btn {
         justify-content: flex-start;
         align-items: flex-end;
         button {
