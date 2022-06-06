@@ -1,6 +1,6 @@
 <template>
   <section id="projects" class="projects main-layout">
-    <h1 class="projects-h1">projects</h1>
+    <h1 class="projects-h1">Selected projects</h1>
     <div
       :class="project.forClass"
       v-for="project in projects"
