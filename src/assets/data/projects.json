@@ -1,5 +1,19 @@
 [
   {
+    "forClass": "pokemon-evolution",
+    "projectName": "Pokemon Evolution",
+    "discretion": "The user can see all the existing Pokemon. The list is arranged according to the evolution of the Pokemon and starts from generation 1.Each of the Pokemon gets a different color depending on its type.If the user goes into the details, you can see the name of the Pokemon, average size and height, front and back pictures of the Pokemon including pictures of the shiny mode.You can also see Pokemon Abilities and Pokemon Moves. The user can choose light or dark mode, is settings will be saved for next time.",
+    "team": "",
+    "mainTechnology": "React",
+    "serverSide": "",
+    "database": "https://pokeapi.co/",
+    "style": "CSS",
+    "otherTechnologies": "",
+    "img": "https://res.cloudinary.com/disku3v4j/image/upload/v1658649018/daniiel/pokemon-evolution_amz0n0.png",
+    "website": "https://daniieldvir.github.io/PokemonEvolution",
+    "sourceCode": "https://github.com/daniieldvir/PokemonEvolution"
+  },
+  {
     "forClass": "love-in-my-tummy",
     "projectName": "Desserts Ordering App",
     "discretion": "This is a demo dessert ordering app for my business. You can enter your information and order the dessert you like, the data will send to firebase in real-time. This app is mobile is responsive.",
